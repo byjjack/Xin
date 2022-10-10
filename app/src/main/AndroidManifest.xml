@@ -13,10 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyKt"
         tools:targetApi="31">
-
         <activity
-            android:name=".te.HActivity"
-            android:exported="true">
+            android:name=".te.TActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,8 +23,13 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".te.HActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
             android:name=".login.LoginActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".main.MainActivity"
             android:exported="false" />
