@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/dice_1.xml" value="0.119" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/dice_2.xml" value="0.128" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/dice_3.xml" value="0.128" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/dice_4.xml" value="0.128" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/dice_6.xml" value="0.128" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/empty_dice.xml" value="0.128" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/activity_hactivity.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Administrator/Desktop/xin/Xin/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
