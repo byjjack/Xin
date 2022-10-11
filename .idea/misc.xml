@@ -9,12 +9,24 @@
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/dice_4.xml" value="0.128" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/dice_6.xml" value="0.128" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable-v24/empty_dice.xml" value="0.128" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable/about_android_trivia.xml" value="0.1305" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/drawable/android_trivia.xml" value="0.1235" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/activity_aactivity.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/activity_hactivity.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/activity_tactivity.xml" value="0.33" />
         <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/content_aactivity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/fragment_about.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/fragment_game.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/fragment_game_over.xml" value="0.2582278481012658" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/fragment_game_won.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/fragment_rules.xml" value="0.28804347826086957" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/fragment_title.xml" value="0.28804347826086957" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/nav_header.xml" value="0.28804347826086957" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/layout/placeholder_layout.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/menu/navdrawer_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/Desktop/ktdemo/Xin/app/src/main/res/menu/options_menu.xml" value="0.3489583333333333" />
         <entry key="..\:/Users/Administrator/Desktop/xin/Xin/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
       </map>
     </option>

@@ -1,13 +1,10 @@
 package com.example.mykt.login
 
 import android.content.Intent
-import android.opengl.Visibility
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import androidx.constraintlayout.widget.R
 import com.example.mykt.databinding.ActivityLoginBinding
-import com.example.mykt.databinding.ActivityMainBinding
 import com.example.mykt.main.MainActivity
 
 class LoginActivity : AppCompatActivity(), LoginView {
