@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.findNavController
 import com.example.mykt.R
@@ -28,9 +29,16 @@ class GameOverFragment : Fragment() {
             container,
             false
         )
+//        binding.tryAgainButton.setOnClickListener{view: View->
+//            view.findNavController()
+//                .navigate(R.id.action_gameOverFragment_to_gameFragment)}
         binding.tryAgainButton.setOnClickListener{view: View->
             view.findNavController()
-                .navigate(R.id.action_gameOverFragment_to_gameFragment)}
+                .navigate(GameOverFragmentDirections.actionGameOverFragmentToGameFragment())}
+
+
+        val args = GameOverFragmentArgs.fromBundle(requireArguments())
+        Toast.makeText(context, "NumCorrect: ${args.numT}, NumQuestions: ${args.numIndex}", Toast.LENGTH_LONG).show()
         return binding.root
     }
 
